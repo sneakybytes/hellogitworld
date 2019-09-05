@@ -1,5 +1,6 @@
-*.class
-*.log
-output/
-build/
-target/
+#*.CLass
+#*.log
+#output/
+#build/
+#target/
+fix.txt
